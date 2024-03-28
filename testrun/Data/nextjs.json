@@ -1,0 +1,6 @@
+{
+  "title": "Getting Started with React Hooks",
+  "content": "React Hooks provide a way to use state and other React features without writing a class. Hooks are functions that let you use React features from functional components. They allow you to reuse stateful logic across multiple components, making your code more modular and easier to maintain.",
+  "author": "Jane Smith",
+  "metaData": "React Hooks provide a way to use state and other React features without writing a class. Hooks are functions that let you use React features from functional components. They allow you to reuse stateful logic across multiple components, making your code more modular and easier to maintain."
+}
